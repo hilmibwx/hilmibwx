@@ -4,8 +4,3 @@
 
 Currently, I'm focusing on developing a supply chain management platform, PanenPanen.id, and a business platform for the MSME sector, Bisnisomall.com.
 I also always take the time to write articles about programming on my personal blog divisidev.com</p>
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=hilmihidyt alt=hilmihidyt /> </p>
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=hilmihidyt&show_icons=true&include_all_commits=true)](https://github.com/hilmihidyt/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hilmihidyt&layout=compact)](https://github.com/hilmihidyt/github-readme-stats)
