@@ -6,5 +6,3 @@ Currently, I'm focusing on developing a supply chain management platform, PanenP
 I also always take the time to write articles about programming on my personal blog divisidev.com</p>
 
 *I'm ready to help you develop the right and efficient software solutions to meet your business goals. Let's work together and turn your ideas into reality. Please feel free to contact me for further discussions about your project!*
-
-[![Fiverr Badge](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/hilmihidayat/) [![Upwork Badge](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~010f509da5c952c71a)
