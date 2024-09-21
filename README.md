@@ -29,14 +29,6 @@ Here are some of the projects I’ve worked on, showcasing my skills in building
 - 🚀 **[Wazap Link](https://wazap.link)**: A tool for generating WhatsApp chat links with customizable short URLs.
 - 🏃 **[InfoLari](https://infolari.com)**: A directory of running events in Indonesia, complete with event submissions and auto-posting to social media.
 
----
-
-## 📊 GitHub Stats
-
-![Hilmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hilmihidyt&show_icons=true&theme=radical)
-
----
-
 ## 💬 Let's Connect!
 
 Feel free to reach out if you're interested in collaborating or have any questions!
